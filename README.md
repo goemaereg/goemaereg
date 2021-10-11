@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Geert Goemaere.
 - 👀 I’m interested in data science
 - 🌱 I’m currently following a master data science and artificial intelligence at the university of Antwerp.
-- 💞️ I’m looking to collaborate on fraud detection in inheritance taxes using machine learning.
+- 💞️ I’m looking to collaborate on fraud detection in taxes using machine learning.
 - 📫 How to reach me: https://www.linkedin.com/in/geertgoemaere
 
 <!---
