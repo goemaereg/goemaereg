@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Geert Goemaere.
 - 👀 I’m interested in data science and artificial intelligence
-- 🌱 I’m currently pursuing a master data science and artificial intelligence at the university of Antwerp.
 - 📫 How to reach me: https://www.linkedin.com/in/geertgoemaere
 
 <!---
